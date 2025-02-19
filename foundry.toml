@@ -1,0 +1,3 @@
+# foundry.toml
+[rpc_endpoints]
+nexus = "https://rpc.nexus.xyz/http"
